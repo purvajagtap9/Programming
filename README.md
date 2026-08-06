@@ -1,36 +1,76 @@
-# Programming Repository
+#Programming Repository
 
-Welcome to my programming repository.
+Welcome to my Programming Repository!
 
-This repository contains my coding practice, competitive programming solutions, and programs written in C, C++, and Java.
+This repository showcases my programming journey through hands-on practice, problem-solving, and data structure implementations. It includes well-organized programs written in C, C++, and Java, helping me strengthen core programming concepts and improve coding skills.
 
-## Repository Structure
+---
 
-### C
+#Repository Structure
 
-* Practice programs
-* Competitive programming solutions
+```
+Programming
+├── C
+│   ├── Practice Programs
+│   └── Problem Solving
+│
+├── C++
+│   ├── Practice Programs
+│   └── Problem Solving
+│
+├── Java
+│   ├── Core Java
+│   ├── Object-Oriented Programming
+│   └── Practice Programs
+│
+└── DS
+    ├── C.programs
+    ├── Cpp.programs
+    └── Java.programs
+```
 
-### C++
+---
 
-* Practice programs
-* Competitive programming solutions
+#What You'll Find
 
-### Java
+- C Programming
+- C++ Programming
+- Core Java
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- Logic Building
+- Problem Solving
+- Coding Practice
 
-* Practice programs
-* Competitive programming solutions
+---
 
-## Topics Covered
+#Purpose
 
-* Basic programming concepts
-* Object-Oriented Programming
-* Data Structures
-* Algorithms
-* Problem-solving
+The goal of this repository is to:
 
-## Author
+- Build strong programming fundamentals.
+- Practice data structures and algorithms.
+- Improve logical thinking and problem-solving abilities.
+- Maintain a structured collection of coding exercises.
+- Track continuous learning and progress.
 
-Purva Jagtap
+---
 
-GitHub: https://github.com/purvajagtap9
+#Technologies
+
+- C
+- C++
+- Java
+- Git & GitHub
+
+---
+
+#Author
+**Purva Jagtap**
+Java Backend Developer | Passionate about Problem Solving & Software Development
+🔗 GitHub Profile: https://github.com/purvajagtap9
+
+---
+
+⭐ *Thank you for visiting this repository! Feel free to explore the code and follow my programming journey.*
