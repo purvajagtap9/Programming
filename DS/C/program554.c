@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+#pragma pack(1)
+struct node
+{
+    int data;
+    struct node *lchild;
+    struct node *rchild;
+};
+
+typedef struct node NODE;
+typedef struct node* PNODE;
+typedef struct node* PPNODE;
+
+int main()
+{
+    PNODE head = NULL; 
+    return 0;
+}
