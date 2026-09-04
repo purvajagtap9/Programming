@@ -13,7 +13,7 @@ int main()
     }
     else
     {
-        printf("File gets successfully created.\n");
+        printf("File gets successfully created with fd : %d\n",fd);
     }
 
     return 0;

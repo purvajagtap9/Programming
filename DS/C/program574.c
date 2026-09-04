@@ -5,15 +5,15 @@ int main()
 {
     int fd = 0;
 
-    fd = creat("Marvellous.txt",0777);
+    fd = open("Marvellous.txt",O_RDONLY);
 
     if(fd == -1)
     {
-        printf("Unable to create file.\n");
+        printf("Unable to open file.\n");
     }
     else
     {
-        printf("File gets successfully created.\n");
+        printf("File gets successfully opened with fd : %d\n",fd);
     }
 
     return 0;
